@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: vue-frontend
+    env: static
+    staticPublishPath: dist
